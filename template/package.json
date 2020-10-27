@@ -22,7 +22,7 @@
     "@rematch/loading": "1.2.1",
     "@uiw/formatter": "1.2.4",
     "@uiw/react-native": "1.7.4",
-    "react": "16.13.1",
+    "react": "17.0.1",
     "react-native": "0.63.2",
     "react-native-device-info": "5.6.4",
     "react-native-gesture-handler": "1.7.0",
@@ -36,7 +36,7 @@
   "devDependencies": {
     "@babel/core": "7.8.4",
     "@babel/runtime": "7.8.4",
-    "@react-native-community/eslint-config": "1.1.0",
+    "@react-native-community/eslint-config": "2.0.0",
     "babel-jest": "25.1.0",
     "eslint": "6.5.1",
     "husky": "4.2.5",
@@ -45,7 +45,7 @@
     "metro-react-native-babel-preset": "0.59.0",
     "mocker-api": "2.3.5",
     "prettier": "2.0.5",
-    "react-test-renderer": "16.13.1"
+    "react-test-renderer": "17.0.1"
   },
   "husky": {
     "hooks": {
